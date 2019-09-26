@@ -82,14 +82,8 @@ print (salary)
 // modulo operator or remainder operator
 //=========================
 
-var modResult = 16 % 3
-print (modResult)
+//=========================
+//      Constants
+//=========================
 
-
-var i = 0
-i = 5
-i += 3
-i *= 2
-i %= 3
-i -= 3
-print (i)
+let pi = 3.14
